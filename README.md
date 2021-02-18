@@ -5,6 +5,8 @@
 - 📫 How to reach me: [w.mielcarek@braweria.de](w.mielcarek@braweria.de)
 - ⚡ Fun fact: My logo is not a wolf, it's a maned wolf. A maned wolf is its own species!
 
-![<img src="https://github-readme-stats.vercel.app/api?username=braweria&theme=vision-friendly-dark&show_icons=true?count_private=true" height="150px" />](https://github-readme-stats.vercel.app/api?username=braweria&theme=vision-friendly-dark&show_icons=true?count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=braweria&theme=vision-friendly-dark&show_icons=true?count_private=true)  
 
-![<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braweria&theme=vision-friendly-dark&layout=compact" height="150px" />](https://github-readme-stats.vercel.app/api/top-langs/?username=braweria&theme=vision-friendly-dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=braweria&theme=vision-friendly-dark&layout=compact)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=braweria)
