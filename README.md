@@ -9,4 +9,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=braweria&theme=vision-friendly-dark&layout=compact)
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=braweria?bg=#0d1117)
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=braweria&bg=0d1117)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=braweria&bg=ffffff00)
